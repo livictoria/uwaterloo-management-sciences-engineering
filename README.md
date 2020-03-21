@@ -1,23 +1,28 @@
 # uwaterloo-management-sciences-engineering
 
-List of courses and and their respective course outlines I took in Management Engineering. Note that the required courses I've taken below are following the 2015-2016 undergraduate calendar. To view the most up to date calendar, visit [here](http://ugradcalendar.uwaterloo.ca/group/uWaterloo-List-of-Undergraduate-Calendars)
+List of courses and and their respective course outlines I took in Management Engineering. Note that the required courses I've taken below are following the 2015-2016 undergraduate calendar. To view the most up to date calendar, visit [here](http://ugradcalendar.uwaterloo.ca/group/uWaterloo-List-of-Undergraduate-Calendars).
 
 ### Legend
+```
 Technical Elective *	
-
 Free Elective ** 
-
 Impact Elective *** 
+```
 
 ---
 
 ### Winter 2020 4B Term
 
 * [SYDE522](https://uwflow.com/course/syde522) Machine Intelligence *
+  * [Course Outline](4B/SYDE522-Course-Outline.pdf)  
 * [SYDE542](https://uwflow.com/course/syde542) Interface Design *
+  * [Course Outline](4B/SYDE542-Course-Outline.pdf)  
 * [MUSIC140](https://uwflow.com/course/music140) Popular Music and Culture **
+  * [Course Outline](4B/MUSIC140-Course-Outline.pdf)  
 * [MSCI402](https://uwflow.com/course/msci402) Management Engineering Design Project 2
+  *[Course Outline](4B/MSCI402-Course-Outline.pdf)
 * [MSCI442](https://uwflow.com/course/msci442) Impact of Information Systems on Organizations and Society ***
+  * [Course Outline](4B/MSCI442-Course-Outline.txt)
 
 ### Spring 2019 4A Term
 
@@ -27,6 +32,7 @@ Impact Elective ***
   * [Labs](https://github.com/yqh/ece252)  
 * [MSCI445](https://uwflow.com/course/msci445) Telecommunication Systems: From Protocols to Applications
 * [PYSCH256](https://uwflow.com/course/pysch256) Intro to Cognitive Science (Online) **
+  * [Course Outline](4A/PSYCH256-Course-Outline.pdf)
 * [MSCI434](https://uwflow.com/course/msci434) Supply Chain Management
 * [MSCI402](https://uwflow.com/course/msci402) Management Engineering Design Project 1
 
