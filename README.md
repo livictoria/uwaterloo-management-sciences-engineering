@@ -1,4 +1,4 @@
-# uwaterloo-management-sciences-engineering
+# University of Waterloo Management Engineering Courses
 
 List of courses and and their respective course outlines I took in Management Engineering. Note that the required courses I've taken below are following the 2015-2016 undergraduate calendar. To view the most up to date calendar, visit [here](http://ugradcalendar.uwaterloo.ca/group/uWaterloo-List-of-Undergraduate-Calendars).
 
@@ -45,7 +45,7 @@ Impact Elective ***
 * [MSCI332](https://uwflow.com/course/msci332) Deterministic Optimization Models and Methods
 	* [Course Outline](3B/MSCI332-Course-Outline.pdf)  
 	* [Class Schedule](3B/MSCI332-Class-Schedule.pdf)  
-* [MSCI333(https://uwflow.com/course/msci333) Simulation Analysis and Design
+* [MSCI333](https://uwflow.com/course/msci333) Simulation Analysis and Design
 	* [Course Outline](3B/MSCI333-Course-Outline.pdf)  
 * [MSCI342](https://uwflow.com/course/msci342) Principles of Software Engineering
 * [MSCI343](https://uwflow.com/course/msci343) Human Computer Interaction *
@@ -67,7 +67,7 @@ Impact Elective ***
 * [MSCI346](https://uwflow.com/course/msci346) Database Systems
 * [MSCI311](https://uwflow.com/course/msci311) Introduction to Optimization
 * [MSCI252](https://uwflow.com/course/msci252) Probability and Statistics for Engineers
-* [ME219](htttsp://uwflow.com/course/me219) Mechanics of Deformable Solids 1
+* [ME219](https://uwflow.com/course/me219) Mechanics of Deformable Solids 1
 * [MSCI211](https://uwflow.com/course/msci211) Organizational Behaviour
 * [MSCI263](https://uwflow.com/course/msci263) Managerial Economics
 
