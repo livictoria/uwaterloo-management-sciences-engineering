@@ -4,131 +4,133 @@ List of courses and and their respective course outlines I took in Management En
 
 ### Legend
 Technical Elective *
+
 Free Elective **
+
 Impact Elective ***
 
 ---
 
 ## Winter 2020 4B Term
 
-### [SYDE522 Machine Intelligence](https://uwflow.com/course/syde522) *
+### [SYDE522](https://uwflow.com/course/syde522) Machine Intelligence *
 
-### [SYDE542 Interface Design](https://uwflow.com/course/syde542) *
-### [MUSIC140 Popular Music and Culture](https://uwflow.com/course/music140) **
-### [MSCI402 Management Engineering Design Project 2](https://uwflow.com/course/msci402)
-### [MSCI442 Impact of Information Systems on Organizations and Society](https://uwflow.com/course/msci442)
+### [SYDE542](https://uwflow.com/course/syde542) Interface Design *
+### [MUSIC140](https://uwflow.com/course/music140) Popular Music and Culture **
+### [MSCI402](https://uwflow.com/course/msci402) Management Engineering Design Project 2
+### [MSCI442](https://uwflow.com/course/msci442) Impact of Information Systems on Organizations and Society ***
 
 ## Spring 2019 4A Term
 
-### [ECE252 Systems Programming and Concurrency](https://uwflow.com/course/ece252) *
+### [ECE252](https://uwflow.com/course/ece252) Systems Programming and Concurrency *
 
 [Course Outline](4A/ece252-s19-syllabus.pdf)
 [Lectures](https://github.com/jzarnett/ece252)
 [Labs](https://github.com/yqh/ece252)
 
-### [MSCI445 Telecommunication Systems: From Protocols to Applications](https://uwflow.com/course/msci445)
-### [PYSCH256 Intro to Cognitive Science](https://uwflow.com/course/pysch256) (Online) **
-### [MSCI434 Supply Chain Management](https://uwflow.com/course/msci434)
-### [MSCI402 Management Engineering Design Project 1](https://uwflow.com/course/msci402)
+### [MSCI445](https://uwflow.com/course/msci445) Telecommunication Systems: From Protocols to Applications
+### [PYSCH256](https://uwflow.com/course/pysch256) Intro to Cognitive Science (Online) **
+### [MSCI434](https://uwflow.com/course/msci434) Supply Chain Management
+### [MSCI402](https://uwflow.com/course/msci402) Management Engineering Design Project 1
 
 ## Fall 2018 3B Term
 
-### (MSCI446 Data Mining)[https://uwflow.com/course/msci446] *
+### (MSCI446)[https://uwflow.com/course/msci446] Data Mining *
 
 [Course Outline](3B/MSCI446-Course-Outline.pdf)
 [Course Project](3B/MSCI446-Project.pdf)
 [Course Notes - Data Science Guide](http://datascienceguide.github.io/)
 
-### [MSCI332 Deterministic Optimization Models and Methods](https://uwflow.com/course/msci332)
+### [MSCI332](https://uwflow.com/course/msci332) Deterministic Optimization Models and Methods
 
 [Course Outline](3B/MSCI332-Course-Outline.pdf)
 [Class Schedule](3B/MSCI332-Class-Schedule.pdf)
 
-### [MSCI333 Simulation Analysis and Design(https://uwflow.com/course/msci333)
+### [MSCI333(https://uwflow.com/course/msci333) Simulation Analysis and Design
 
 [Course Outline](3B/MSCI333-Course-Outline.pdf)
 
-### [MSCI342 Principles of Software Engineering](https://uwflow.com/course/msci342)
+### [MSCI342](https://uwflow.com/course/msci342) Principles of Software Engineering
 
-### [MSCI343 Human Computer Interaction](https://uwflow.com/course/msci343) *
+### [MSCI343](https://uwflow.com/course/msci343) Human Computer Interaction *
 
 ## Winter 2018 3A Term
 
-### [MSCI444 ](https://uwflow.com/course/msci444)
-
-[Course Outline](3A/MSCI444-Course-Outline.pdf)
-
-### [MSCI541 ](https://uwflow.com/course/msci)
+### [MSCI541](https://uwflow.com/course/msci) Search Engines *
 
 [Course Outline](3A/MSCI541-Course-Outline.pdf)
 
-### [MSCI311 ](https://uwflow.com/course/msci311)
-
-[Course Outline](3A/MSCI311-Course-Outline.pdf)
-
-### [MSCI334 ](https://uwflow.com/course/msci334)
-
-[Course Outline](3A/MSCI334-Course-Outline.pdf)
-
-### [MSCI431 ](https://uwflow.com/course/msci431) 
+### [MSCI431](https://uwflow.com/course/msci431) Stochastic Models and Methods
 
 [Course Outline](3A/MSCI431-Course-Outline.pdf)
 
+### [MSCI444](https://uwflow.com/course/msci444) Information Systems Analysis and Design
+
+[Course Outline](3A/MSCI444-Course-Outline.pdf)
+
+### [MSCI311](https://uwflow.com/course/msci311) Organizational Design and Technology
+
+[Course Outline](3A/MSCI311-Course-Outline.pdf)
+
+### [MSCI334](https://uwflow.com/course/msci334) Operations Planning and Inventory Control
+
+[Course Outline](3A/MSCI334-Course-Outline.pdf)
+
 ## Spring 2017 2B Term
 
-### [MSCI346 Database Systems](https://uwflow.com/course/msci346)
-### [MSCI311 Introduction to Optimization](https://uwflow.com/course/msci311)
-### [MSCI252 Probability and Statistics for Engineers](https://uwflow.com/course/msci252)
-### [ME219 Mechanics of Deformable Solids 1](htttsp://uwflow.com/course/me219)
-### [MSCI211 Organizational Behaviour](https://uwflow.com/course/msci211)
-### [MSCI263 Managerial Economics](https://uwflow.com/course/msci263)
+### [MSCI346](https://uwflow.com/course/msci346) Database Systems
+### [MSCI311](https://uwflow.com/course/msci311) Introduction to Optimization
+### [MSCI252](https://uwflow.com/course/msci252) Probability and Statistics for Engineers
+### [ME219](htttsp://uwflow.com/course/me219) Mechanics of Deformable Solids 1
+### [MSCI211](https://uwflow.com/course/msci211) Organizational Behaviour
+### [MSCI263](https://uwflow.com/course/msci263) Managerial Economics
 
 ## Fall 2016 2A Term
 
-### [MSCI240 Algorithms and Data Structures](https://uwflow.com/course/msci240)
+### [MSCI240](https://uwflow.com/course/msci240) Algorithms and Data Structures
 
 [Course Outline](2A/MSCI240-Course-Outline.pdf)
 
-### [MSCI262 Managerial and Cost Accounting](https://uwflow.com/course/msci262)
-### [MSCI271 Advanced Calculus and Numerical Methods](https://uwflow.com/course/msci271)
-### [ME235 Materials Science and Engineering](https://uwflow.com/course/me235)
-### [ME250 Thermodynamics 1](https://uwflow.com/course/me250)
+### [MSCI262](https://uwflow.com/course/msci262) Managerial and Cost Accounting
+### [MSCI271](https://uwflow.com/course/msci271) Advanced Calculus and Numerical Methods
+### [ME235](https://uwflow.com/course/me235) Materials Science and Engineering
+### [ME250](https://uwflow.com/course/me250) Thermodynamics 1
 
 
 ## Winter 2016 1B Term
 
-### [GENE123 Electrical Engineering](https://uwflow.com/course/gene123)
-### [MSCI121 Introduction to Computer Programming](https://uwflow.com/course/msci121)
-### [MSCI131 Work Design and Facilities Planning](https://uwflow.com/course/msci131)
-### [MSCI261 Engineering Economics: Financial Management for Engineers](https://uwflow.com/course/msci261)
-### [MATH118 Calculus 2 for Engineering](https://uwflow.com/course/math118)
-### [PHYS125 Physics for Engineers](https://uwflow.com/course/phys125)
+### [GENE123](https://uwflow.com/course/gene123) Electrical Engineering
+### [MSCI121](https://uwflow.com/course/msci121) Introduction to Computer Programming
+### [MSCI131](https://uwflow.com/course/msci131) Work Design and Facilities Planning
+### [MSCI261](https://uwflow.com/course/msci261) Engineering Economics: Financial Management for Engineers
+### [MATH118](https://uwflow.com/course/math118) Calculus 2 for Engineering
+### [PHYS125 ](https://uwflow.com/course/phys125) Physics for Engineers
 
 ## Fall 2016 1A Term
 
-### [CHE102 Chemistry for Engineers](https://uwflow.com/course/che102)
-### [MSCI 100 Management Engineering Concepts](https://uwflow.com/course/msci100)
-### [MATH 115 Linear Algebra for Engineering](https://uwflow.com/course/math115)
-### [MATH 116 Calculus 1 for Engineering](https://uwflow.com/course/math116)
-### [PHYS 115 Mechanics](https://uwflow.com/course/phys115)
+### [CHE102](https://uwflow.com/course/che102) Chemistry for Engineers
+### [MSCI 100](https://uwflow.com/course/msci100) Management Engineering Concepts
+### [MATH 115](https://uwflow.com/course/math115) Linear Algebra for Engineering
+### [MATH 116](https://uwflow.com/course/math116) Calculus 1 for Engineering
+### [PHYS 115](https://uwflow.com/course/phys115) Mechanics
 
 --- 
 ### Non-MSCI Electives other Management Engineers took
 
 #### Technical
 
-[CS349 User Interfaces](https://uwflow.com/course/cs349)
-[ME599 Special Topics in Mechanical Engineering](https://uwflow.com/course/me599)
-[STAT341 Computational Statistics and Data Analysis](https://uwflow.com/course/stat341)
-[ECE451 Software Requirements Specification and Analysis](https://uwflow.com/course/ece451)
-[STAT440 Computational Inference](https://uwflow.com/course/stat440)
+* [CS349](https://uwflow.com/course/cs349) User Interfaces
+* [ME599](https://uwflow.com/course/me599) Special Topics in Mechanical Engineering
+* [STAT341](https://uwflow.com/course/stat341) Computational Statistics and Data Analysis
+* [ECE451](https://uwflow.com/course/ece451) Software Requirements Specification and Analysis
+* [STAT440](https://uwflow.com/course/stat440) Computational Inference
 
 #### Free
 
-[PHYS175 Introduction to the Universe](https://uwflow.com/course/phys175)
-[REC100 Introduction to the Study fo Recreation and Leisure](https://uwflow.com/course/rec100)
-[MUSCI246 Soundtracks: Music in Film](https://uwflow.com/course/music246)
-[BET430	Sales Fundamentals](https://uwflow.com/course/bet430)
-[BET460	Sales Fundamentals](https://uwflow.com/course/bet430)
-[FR151 Basic French](https://uwflow.com/course/fr151)
-[FINE130 Introduction to Digital Imaging](https://uwflow.com/course/fine130)
+* [PHYS175](https://uwflow.com/course/phys175) Introduction to the Universe
+* [REC100](https://uwflow.com/course/rec100) Introduction to the Study fo Recreation and Leisure
+* [MUSCI246](https://uwflow.com/course/music246) Soundtracks: Music in Film
+* [BET430](https://uwflow.com/course/bet430) Sales Fundamentals
+* [BET460](https://uwflow.com/course/bet430) Sales Fundamentals
+* [FR151](https://uwflow.com/course/fr151) Basic French
+* [FINE130](https://uwflow.com/course/fine130) Introduction to Digital Imaging
