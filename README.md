@@ -9,8 +9,6 @@ Free Elective **
 Impact Elective *** 
 ```
 
----
-
 ### Winter 2020 4B Term
 
 * [SYDE522](https://uwflow.com/course/syde522) Machine Intelligence *
@@ -20,7 +18,7 @@ Impact Elective ***
 * [MUSIC140](https://uwflow.com/course/music140) Popular Music and Culture **
   * [Course Outline](4B/MUSIC140-Course-Outline.pdf)  
 * [MSCI402](https://uwflow.com/course/msci402) Management Engineering Design Project 2
-  *[Course Outline](4B/MSCI402-Course-Outline.pdf)
+  * [Course Outline](4B/MSCI402-Course-Outline.pdf)
 * [MSCI442](https://uwflow.com/course/msci442) Impact of Information Systems on Organizations and Society ***
   * [Course Outline](4B/MSCI442-Course-Outline.txt)
 
@@ -31,9 +29,12 @@ Impact Elective ***
   * [Lectures](https://github.com/jzarnett/ece252)  
   * [Labs](https://github.com/yqh/ece252)  
 * [MSCI445](https://uwflow.com/course/msci445) Telecommunication Systems: From Protocols to Applications
+  * [Textbook](https://eclass.teicrete.gr/modules/document/file.php/TP326/%CE%98%CE%B5%CF%89%CF%81%CE%AF%CE%B1%20(Lectures)/Computer_Networking_A_Top-Down_Approach.pdf)
 * [PYSCH256](https://uwflow.com/course/pysch256) Intro to Cognitive Science (Online) **
   * [Course Outline](4A/PSYCH256-Course-Outline.pdf)
 * [MSCI434](https://uwflow.com/course/msci434) Supply Chain Management
+  * [Course Project](4A/MSCI434-Project.pdf)
+  * [Textbook](https://base-logistique-services.com/storage/app/media/Chopra_Meindl_SCM.pdf)
 * [MSCI402](https://uwflow.com/course/msci402) Management Engineering Design Project 1
 
 ### Fall 2018 3B Term
@@ -46,7 +47,9 @@ Impact Elective ***
 	* [Course Outline](3B/MSCI332-Course-Outline.pdf)  
 	* [Class Schedule](3B/MSCI332-Class-Schedule.pdf)  
 * [MSCI333](https://uwflow.com/course/msci333) Simulation Analysis and Design
-	* [Course Outline](3B/MSCI333-Course-Outline.pdf)  
+	* [Course Outline](3B/MSCI333-Course-Outline.pdf)
+	* [Textbook 5th Edition](http://ce.sharif.edu/courses/95-96/2/ce634-1/resources/root/Books/Discrete%20Event%20System%20Simulation%20%28Fifth%20Edition%29%20.pdf)
+	* [Textbook Solutions 4th Edition](https://lpuguidecom.files.wordpress.com/2017/05/solutionsofdsm.pdf)
 * [MSCI342](https://uwflow.com/course/msci342) Principles of Software Engineering
 * [MSCI343](https://uwflow.com/course/msci343) Human Computer Interaction *
 
