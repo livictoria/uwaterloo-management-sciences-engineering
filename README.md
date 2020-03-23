@@ -116,6 +116,7 @@ Impact Elective ***
 * [PHYS175](https://uwflow.com/course/phys175) Introduction to the Universe
 * [REC100](https://uwflow.com/course/rec100) Introduction to the Study fo Recreation and Leisure
 * [MUSCI246](https://uwflow.com/course/music246) Soundtracks: Music in Film
+* [BET340](https://uwflow.com/course/340) Essentials of Entrepreneurial Planning and Execution
 * [BET430](https://uwflow.com/course/bet430) Sales Fundamentals
 * [BET460](https://uwflow.com/course/bet430) Sales Fundamentals
 * [FR151](https://uwflow.com/course/fr151) Basic French
