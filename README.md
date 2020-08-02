@@ -95,10 +95,10 @@ Impact Elective ***
 ### Fall 2016 1A Term
 
 * [CHE102](https://uwflow.com/course/che102) Chemistry for Engineers
-* [MSCI 100](https://uwflow.com/course/msci100) Management Engineering Concepts
-* [MATH 115](https://uwflow.com/course/math115) Linear Algebra for Engineering
-* [MATH 116](https://uwflow.com/course/math116) Calculus 1 for Engineering
-* [PHYS 115](https://uwflow.com/course/phys115) Mechanics
+* [MSCI100](https://uwflow.com/course/msci100) Management Engineering Concepts
+* [MATH115](https://uwflow.com/course/math115) Linear Algebra for Engineering
+* [MATH116](https://uwflow.com/course/math116) Calculus 1 for Engineering
+* [PHYS115](https://uwflow.com/course/phys115) Mechanics
 
 --- 
 ### Non-MSCI Electives other Management Engineers took
